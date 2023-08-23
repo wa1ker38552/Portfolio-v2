@@ -230,7 +230,7 @@ a {
   width: 1em;
   height: 1em;
   margin-right: 0.5em;
-  filter: invert(64%) sepia(0%) saturate(354%) hue-rotate(140deg) brightness(88%) contrast(80%);
+  filter: invert(64%) sepia(0%) saturate(479%) hue-rotate(213deg) brightness(87%) contrast(95%);
 }
 
 .disabled-button {
@@ -243,7 +243,7 @@ a {
   padding: 0.1em 0.5em 0.1em 0.5em;
   border-radius: 6px;
   margin-left: 0.5em;
-  color: var(--dark-secondary);
+  color: rgba(0, 0, 0, 0.5);
   font-size: 0.8em;
   background: var(--dark-color);
   text-shadow: 0 0 0 transparent;
@@ -252,13 +252,37 @@ a {
 #projectCounter {
   position: absolute;
   bottom: 0;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.5);
   font-family: "Fira Code";
 }
 
-.py {background: var(--py);}
-.js {background: var(--js);}
-.html {background: var(--html);}
-.java {background: var(--java);}
-.css {background: var(--css);}
-.c {background: var(--c);}
+.py {background: var(--py); box-shadow: 0 0 5px var(--py);}
+.js {background: var(--js); box-shadow: 0 0 5px var(--js);}
+.html {background: var(--html); box-shadow: 0 0 5px var(--html);}
+.java {background: var(--java); box-shadow: 0 0 5px var(--java);}
+.css {background: var(--css); box-shadow: 0 0 5px var(--css);}
+.c {background: var(--c); box-shadow: 0 0 5px var(--c);}
+
+.contact-container {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-gap: 0.5em;
+  font-size: 1.2em;
+  text-align: left;
+  width: auto;
+}
+
+.contact-icon {
+  width: 1.4em;
+  height: 1.4em;
+}
+
+.contact-button {
+  box-shadow: 5px 5px 5px var(--dark-border);
+  padding: 0.2em;
+  box-sizing: border-box;
+  border-radius: 6px;
+  font-size: 0.9em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+}
