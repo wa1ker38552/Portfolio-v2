@@ -43,7 +43,7 @@ const projectDetails = [
   {
     "title": "Checklist",
     "description": "A simple and minimalistic checklist app to help you keep track of things",
-    "live": "https://checklist.cadenchau.repl.co/",
+    "live": "https://checklist.cadenchau.com",
     "code": null,
     "language": "javascript",
     "languageDetail": "js"
