@@ -28,18 +28,17 @@ const projectDetails = [
     "description": "A customizable homepage for your browser with tons of features",
     "live": "https://home.cadenchau.com",
     "code": "https://github.com/wa1ker38552/Browser-Homepage",
-    "language": "html",
+    "language": "HTML",
     "languageDetail": "html"
   },
   {
     "title": "Typing Test",
-    "description": "A minimalistic typing test from scratch, with features",
-    "live": "https://typing.cadenchau.repl.co/",
-    "code": "https://github.com/wa1ker38552/TypingTest",
+    "description": "A minimalistic typing test from scratch, inspired from MonkeyType",
+    "live": "https://type.cadenchau.com",
+    "code": "https://github.com/wa1ker38552/type",
     "language": "javascript",
     "languageDetail": "js"
-  }
-  ,
+  },
   {
     "title": "Checklist",
     "description": "A simple and minimalistic checklist app to help you keep track of things",
@@ -47,6 +46,14 @@ const projectDetails = [
     "code": null,
     "language": "javascript",
     "languageDetail": "js"
+  },
+  {
+    "title": "Logs",
+    "description": "A simple and minimalistic journal app",
+    "live": null,
+    "code": "https://github.com/wa1ker38552/logs",
+    "language": "HTML",
+    "languageDetail": "html"
   }
 ]
 
