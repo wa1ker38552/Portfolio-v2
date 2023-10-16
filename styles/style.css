@@ -85,11 +85,11 @@ a {
 
 .languages-grid {
   display: grid;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 0.5em;
   width: 100%;
-  height: 5em;
+  height: 7em;
 }
 
 .language {
