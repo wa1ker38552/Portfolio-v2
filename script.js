@@ -54,6 +54,14 @@ const projectDetails = [
     "code": "https://github.com/wa1ker38552/logs",
     "language": "HTML",
     "languageDetail": "html"
+  },
+  {
+    "title": "Pixel Painter",
+    "description": "A group painting app inspired from r/place",
+    "live": "https://pixelpainter.cadenchau.com/",
+    "code": "https://github.com/wa1lker39552/pixelpainter",
+    "language": "HTML",
+    "languageDetail": "html"
   }
 ]
 
