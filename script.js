@@ -62,6 +62,14 @@ const projectDetails = [
     "code": "https://github.com/wa1ker38552/pixelpainter",
     "language": "HTML",
     "languageDetail": "html"
+  },
+  {
+    "title": "Music",
+    "description": "A simple app showing what music I listen to",
+    "live": "https://music.cadenchau.com/",
+    "code": "https://github.com/wa1ker38552/music",
+    "language": "javascript",
+    "languageDetail": "js"
   }
 ]
 
