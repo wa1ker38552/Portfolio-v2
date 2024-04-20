@@ -8,6 +8,14 @@ const projectDetails = [
     "languageDetail": "py"
   },
   {
+    "title": "ps99rap",
+    "description": "A database for pet simulator 99",
+    "live": "https://ps99rap.com/",
+    "code": null,
+    "language": "python",
+    "languageDetail": "py"
+  },
+  {
     "title": "Rolimons",
     "description": "A Python API wrapper for the Roblox trading site Rolimons",
     "live": null,
@@ -70,14 +78,6 @@ const projectDetails = [
     "code": "https://github.com/wa1ker38552/music",
     "language": "javascript",
     "languageDetail": "js"
-  },
-  {
-    "title": "ps99rap",
-    "description": "A database for pet simulator 99",
-    "live": "https://ps99rap.com/",
-    "code": null,
-    "language": "python",
-    "languageDetail": "py"
   }
 ]
 
