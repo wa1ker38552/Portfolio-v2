@@ -70,6 +70,14 @@ const projectDetails = [
     "code": "https://github.com/wa1ker38552/music",
     "language": "javascript",
     "languageDetail": "js"
+  },
+  {
+    "title": "ps99rap",
+    "description": "A database for pet simulator 99",
+    "live": "https://ps99rap.com/",
+    "code": null,
+    "language": "python",
+    "languageDetail": "py"
   }
 ]
 
