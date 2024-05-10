@@ -9,7 +9,7 @@ const projectDetails = [
   },
   {
     "title": "ps99rap",
-    "description": "A full database along with statistics and analysis for pet simulator 99. 10k+ monthly users",
+    "description": "A database with statistics and analysis for pet simulator 99. 10k+ monthly users",
     "live": "https://ps99rap.com/",
     "code": null,
     "language": "python",
