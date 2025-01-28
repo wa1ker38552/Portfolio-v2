@@ -1,0 +1,17 @@
+:root {
+  --dark-bg: #292929;
+  --dark-secondary: #333333;
+  --dark-border: #1f1f1f;
+  --dark-color: #8c8c8c;
+  --accent: #5c9aff;
+  --disabled: #6b6b6b;
+
+  --py: #8bc2fe;
+  --js: #ffe294;
+  --html: #ffb070;
+  --java: #c7c7c7;
+  --css: #eab4fe;
+  --c: #c7c7c7;
+  --cpp: #0082e6;
+  --swift: #fe8662;
+}
